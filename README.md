@@ -14,7 +14,7 @@
 ![decription](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![decription](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![decription](https://img.shields.io/badge/Netty-4D4D4D?style=for-the-badge&logo=netty&logoColor=white)
-![decription](https://img.shields.io/badge/Nacos-5391FE?style=for-the-badge&logo=nacos&logoColor=white)
+![decription](https://img.shields.io/badge/Dubbo-5391FE?style=for-the-badge&logo=dubbo&logoColor=white)
 ![decription](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![decription](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
